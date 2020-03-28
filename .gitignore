@@ -2,4 +2,4 @@
 .idea/*
 InfiniteGoodsMod/bin
 InfiniteGoodsMod/obj
-#libs/Cities_Skylines/*.dll
+libs/Cities_Skylines/*.dll
